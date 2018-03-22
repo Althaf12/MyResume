@@ -85,6 +85,7 @@ h2{
 	padding:1%;
 	border-radius:10px;
 	border:2px solid gray;
+	box-shadow: 3px 3px 3px #ddd;
 
 }
 
@@ -95,6 +96,7 @@ h2{
 	padding:1%;
 	border-radius:10px;
 	border:2px solid gray;
+	box-shadow: 3px 3px 3px #ddd;
 }
 
 
